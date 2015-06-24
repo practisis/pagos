@@ -1,2 +1,2 @@
-# tweetsplit
+# pagos
 Tweet storm generator
